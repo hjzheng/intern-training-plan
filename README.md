@@ -37,5 +37,5 @@
 4.由点到面 —-> 学习领域知识  —-> 了解并学习其他框架, 并类比 AngularJS 将知识扩张到 例如 MVVM 框架, 组件之间通信问题等, 与具体框架无关，更抽象的层次
 ```
 
-16年05月计划: [newcommer](https://github.com/ShuyunXIANFESchool/newcomer)
-17年11月计划: [newcommer](https://github.com/hjzheng/intern-training-plan/blob/master/%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E8%AE%AD.numbers)
+- 16年05月计划: [newcomer](https://github.com/ShuyunXIANFESchool/newcomer)
+- 17年11月计划: [newcomer](https://github.com/hjzheng/intern-training-plan/blob/master/%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E8%AE%AD.numbers)
